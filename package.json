@@ -2,10 +2,7 @@
   "name": "@chaff/tafft",
   "version": "0.0.0",
   "description": "General procrastination and tom-foolery",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Iain Reid",
-  "license": "MIT"
+  }
 }
