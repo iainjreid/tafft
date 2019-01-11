@@ -4,5 +4,9 @@
   "description": "General procrastination and tom-foolery",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "benchmark": "^2.1.4",
+    "microtime": "^2.1.8"
   }
 }
